@@ -1,1 +1,1 @@
-# Event-Management-System
+# Event Planning Recommendation System
